@@ -1,0 +1,68 @@
+.container {
+    width: 90%;
+    height: 300px;
+    background-color: aqua;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.container2 {
+    width: 90%;
+    height: 300px;
+    background-color: gold
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.container3 {
+    width: 90%;
+    height: 300px;
+    background-color: green
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+h1 {
+    font-style: italic;
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+body {
+    background-color: gray;
+}
+grinchtocat.gif {
+    height: 25px;
+    display: block;
+}
+xtocat.jpg {
+    height: 25px;
+    display: block;
+}
+homercat.png {
+    height: 25px;
+    display: block;
+}
+riddlocat.png{
+    height: 25px;
+    display: block;
+}
+linktocat.jpg{
+    height: 25px;
+    display: block;
+}
+spidertocat.png{
+    height: 25px;
+    display: block;
+}
+ironcat.jpg {
+    height: 25px;
+    display: block;
+}
+heisencat.png{
+    height: 25px;
+    display: block;
+}
